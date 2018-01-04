@@ -1,0 +1,11 @@
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\bin\Debug\netcoreapp1.0\CoreApiUndockerized.Data.deps.json
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\bin\Debug\netcoreapp1.0\CoreApiUndockerized.Data.runtimeconfig.json
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\bin\Debug\netcoreapp1.0\CoreApiUndockerized.Data.runtimeconfig.dev.json
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\bin\Debug\netcoreapp1.0\CoreApiUndockerized.Data.dll
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\bin\Debug\netcoreapp1.0\CoreApiUndockerized.Data.pdb
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.csprojResolveAssemblyReference.cache
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.csproj.CoreCompileInputs.cache
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.AssemblyInfoInputs.cache
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.AssemblyInfo.cs
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.dll
+D:\OuterProjects\CoreApiUndockerized\CoreApiUndockerized.Data\obj\Debug\netcoreapp1.0\CoreApiUndockerized.Data.pdb
