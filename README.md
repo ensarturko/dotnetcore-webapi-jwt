@@ -12,4 +12,4 @@ besides .net core entity framework code first + sql server + repository pattern
 - model validation
 - logger factory
 
-was used in this project.
+is used in this project.
