@@ -1,4 +1,4 @@
-# DotNetCoreHeadFirst
+# dotnetcore-webapi-jwt
 
 
 besides .net core entity framework code first + sql server + repository pattern
